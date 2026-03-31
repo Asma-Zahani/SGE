@@ -1,7 +1,5 @@
 package com.sge.dao;
 
-import com.sge.model.Etudiant;
-
 import java.sql.Connection;
 import java.util.List;
 

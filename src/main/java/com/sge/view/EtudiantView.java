@@ -1,18 +1,12 @@
 package com.sge.view;
 
-import com.sge.dao.DepartementDAO;
 import com.sge.model.Departement;
 import com.sge.model.Etudiant;
-import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
 import javafx.geometry.Pos;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
-
-import java.sql.Connection;
-import java.util.List;
 
 public class EtudiantView {
     private VBox root = new VBox(15);

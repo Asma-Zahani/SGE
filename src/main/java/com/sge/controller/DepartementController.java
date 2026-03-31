@@ -13,7 +13,6 @@ import javafx.scene.Parent;
 import javafx.scene.control.Alert;
 
 import javax.sql.rowset.CachedRowSet;
-import java.sql.ResultSet;
 import java.util.List;
 
 public class DepartementController {
